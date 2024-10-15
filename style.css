@@ -10,7 +10,7 @@ body {
     background-color: #f5f5f5;
 }
 
-/*                                                THIS IS HEADER CSS                              */
+/* THIS IS HEADER CSS*/
 
 header {
     background-color: #f85606;
@@ -524,7 +524,7 @@ header {
     height: 100%;
     margin-top: 17px;
     display: inline-flex;
-    background-image: url(./daraz\ img/one.jpg);
+    background-image: url(./img/one.jpg);
     column-gap: 20px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -535,47 +535,47 @@ header {
 
 @keyframes slider {
     0% {
-        background-image: url('./daraz\ img/one.jpg');
+        background-image: url('./img/one.jpg');
     }
 
     10% {
-        background-image: url('./daraz\ img/two.jpg');
+        background-image: url('./img/two.jpg');
     }
 
     20% {
-        background-image: url('./daraz\ img/three.png');
+        background-image: url('./img/three.png');
     }
 
     30% {
-        background-image: url('./daraz\ img/four.jpg');
+        background-image: url('./img/four.jpg');
     }
 
     40% {
-        background-image: url('./daraz\ img/five.jpg');
+        background-image: url('./img/five.jpg');
     }
 
     50% {
-        background-image: url('./daraz\ img/six.jpg');
+        background-image: url('./img/six.jpg');
     }
 
     60% {
-        background-image: url('./daraz\ img/seven.png');
+        background-image: url('./img/seven.png');
     }
 
     70% {
-        background-image: url('./daraz\ img/one.jpg');
+        background-image: url('./img/one.jpg');
     }
 
     80% {
-        background-image: url('./daraz\ img/two.jpg');
+        background-image: url('./img/two.jpg');
     }
 
     90% {
-        background-image: url('./daraz\ img/three.png');
+        background-image: url('./img/three.png');
     }
 
     100% {
-        background-image: url('./daraz\ img/four.jpg');
+        background-image: url('./img/four.jpg');
     }
 }
 
@@ -585,7 +585,7 @@ header {
     border-radius: 20px;
 }
 
-/*                                              THIS IS GROCERY DROPDOWN                                         */
+/* THIS IS GROCERY DROPDOWN */
 
 #grocery-more-icon {
     color: #f85606;
@@ -641,7 +641,7 @@ header {
     background-color: #e7e6e6a5;
 }
 
-/*                                         THIS IS GROCERY ITEM 1 DDROPDOWN CSS                                   */
+/*  THIS IS GROCERY ITEM 1 DDROPDOWN CSS  */
 
 .grocery-item1-dropdown {
     display: block;
@@ -722,7 +722,7 @@ header {
 
 }
 
-/*                                              THIS IS GROCERY ITEM 2 DROPDOWN                            */
+/*  THIS IS GROCERY ITEM 2 DROPDOWN */
 
 .grocery-item2-dropdown {
     display: block;
